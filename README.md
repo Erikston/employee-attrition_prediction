@@ -107,10 +107,9 @@ This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` fi
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to contact me at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions or suggestions, feel free to contact me at [your_email@example.com](mailto:uarbrb@gmail.com).
 
 ## 💖 Thanks
 
 Thank you for checking out this project! I hope it's helpful for your employee attrition prediction needs.
 
-This README is written by [readme.ai](https://readme-generator-phi.vercel.app/).
