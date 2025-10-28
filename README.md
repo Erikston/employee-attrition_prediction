@@ -107,7 +107,7 @@ This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` fi
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to contact me at [your_email@example.com](mailto:uarbrb@gmail.com).
+If you have any questions or suggestions, feel free to contact me at [uarbrb@gmail.com](mailto:uarbrb@gmail.com).
 
 ## 💖 Thanks
 
